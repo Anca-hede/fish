@@ -1,0 +1,75 @@
+body{
+    background-color: seagreen;
+}
+h1{
+    text-align: center;
+    color: darkgrey;
+    font-size: 50px;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+h3{
+    text-align: left;
+    color:black;
+    font-size: 30px;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+iframe{
+    display:block;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    
+
+  
+
+}
+img{ 
+    width: 500px;
+    height: 300px;
+
+}
+ul{
+  list-style:none;
+  margin: 0;  
+  padding: 0;
+  background-color: black;
+  width: 100%;
+  float:left;
+}
+
+li{
+    float:left;
+
+}
+li a{
+    display:block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: black;
+}
+
+li a:hover{
+    background-color: white;
+    color:black;
+}
+.cont{
+    width: 100%;
+    background-color: rgb(9, 192, 88);
+}
+
+.fifty{
+    width:50%;
+    display:block;
+    float:left;
+    text-align: center;
+    background-color: rgb(10, 202, 236);
+}
+
